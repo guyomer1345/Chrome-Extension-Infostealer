@@ -1,0 +1,23 @@
+content script - probably not intresting (maybe for scraping?) (html viewer)
+
+service worker - for sure intresting (actually does things)
+
+Extension Pages -  (self explantory)
+	popup - probably not intresing
+	options - probably not intresting (maybe for bonus features if I finish)
+
+facebook:
+	https://www.facebook.com/guy.omer.5/about_contact_and_basic_info - email, phone, birthday
+	https://www.facebook.com/guy.omer.5/about_overview - location, job, education
+
+
+facebook - use front to get username and then - https://m.facebook.com/guy.omer.5/about to get email and more
+linkedin - frontend (content script)
+twitter - frontend (content script)
+
+facebook - name,phone,email,address,job(?)
+linkedin - name,email,address(?)
+twitter - name
+
+
+linkedin - maybe add name,username
